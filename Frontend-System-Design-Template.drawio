@@ -1,17 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="wj_3cJ50dMPSjdAwilRV">
-    <mxGraphModel dx="1018" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3395" dy="2823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QCt4aTEVBTX1qM6rKIpX-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Function Requirements&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="160" width="390" height="120" as="geometry" />
+          <mxGeometry x="80" y="-960" width="390" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QCt4aTEVBTX1qM6rKIpX-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Non-Function Requirements&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="560" width="390" height="120" as="geometry" />
+          <mxGeometry x="80" y="-640" width="390" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QCt4aTEVBTX1qM6rKIpX-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Scope&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="160" width="390" height="120" as="geometry" />
+        <mxCell id="QCt4aTEVBTX1qM6rKIpX-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Scope of the Design&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="-960" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BrtEVpoA4Ins5z8iuxnt-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Frontend System Design&amp;nbsp;&lt;/h1&gt;&lt;p&gt;1. Functional Requirements&lt;/p&gt;&lt;p&gt;2. Non-Functional Requirements&lt;/p&gt;&lt;p&gt;3. Scoping&lt;/p&gt;&lt;p&gt;4. Users and User Flows&lt;/p&gt;&lt;p&gt;5. API Design&amp;nbsp;&lt;/p&gt;&lt;p&gt;6. Component Architecture&amp;nbsp;&lt;/p&gt;&lt;p&gt;7. State Management Strategy&lt;/p&gt;&lt;p&gt;8. Accessibility + Internationalization&lt;/p&gt;&lt;p&gt;9. Security&lt;/p&gt;&lt;p&gt;10. Scaling and Performance&lt;/p&gt;&lt;p&gt;11. Trade-offs and Future Improvements&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="-960" width="350" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BrtEVpoA4Ins5z8iuxnt-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Users and User Flows&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-240" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BrtEVpoA4Ins5z8iuxnt-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;API Design&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;/path :&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-240" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BrtEVpoA4Ins5z8iuxnt-14" value="Component Structure" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-240" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BrtEVpoA4Ins5z8iuxnt-16" value="Data Model" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="-240" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BrtEVpoA4Ins5z8iuxnt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BrtEVpoA4Ins5z8iuxnt-16" target="BrtEVpoA4Ins5z8iuxnt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BrtEVpoA4Ins5z8iuxnt-18" value="Accessibility &amp;amp; SEO" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-960" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BrtEVpoA4Ins5z8iuxnt-19" value="Performance &amp;amp; Scaling" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-960" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
